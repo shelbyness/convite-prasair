@@ -50,7 +50,7 @@ const accept = () => {
   </div>
   <div v-if="step === 2" class="container">
     <h2>Como se você tivesse escolha...</h2>
-    <h3>Agora dê seu o jeito e decida pra onde iremos e o que faremos, e mande mensagem no Telegram 🙄</h3>
+    <h3>Agora dê o seu jeito e decida pra onde iremos e o que faremos, e mande mensagem no Telegram 🙄</h3>
 
   </div>
 </template>
