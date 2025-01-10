@@ -36,7 +36,7 @@ const accept = () => {
 </script>
 <template>
   <div v-if="step === 1" class="container">
-    <h1> Você quer sair comigo? 😁</h1>
+    <h1> É verdade que você quer me dar todas as expansões do The Sims?</h1>
     <div class="buttons">
       <button class="accept-button" @click="accept">Sim</button>
       <button
@@ -50,7 +50,7 @@ const accept = () => {
   </div>
   <div v-if="step === 2" class="container">
     <h2>Como se você tivesse escolha...</h2>
-    <h3>Agora dê o seu jeito e decida pra onde iremos e o que faremos, pois minha parte eu já fiz: te convidei pra me levar pra sair 🙄</h3>
+    <h3>Estou esperando todas na minha conta!</h3>
 
   </div>
 </template>
